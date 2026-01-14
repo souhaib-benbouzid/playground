@@ -1,0 +1,14 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "ts-node": "^10.9.1",
+    "nodemon": "^2.0.22",
+    "@types/node": "^20.5.1"
+  }
+}
