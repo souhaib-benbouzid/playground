@@ -6,12 +6,9 @@
   "author": "https://github.com/souhaib-benbouzid",
   "type": "module",
   "scripts": {
-    "dev": "nodemon python/main.py"
+    "dev": "nodemon main.py"
   },
   "dependencies": {
     "nodemon": "^3.1.11"
-  },
-  "devDependencies": {
-    "ts-node-dev": "^2.0.0"
   }
 }
