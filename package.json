@@ -1,0 +1,17 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "A multi-language code playground environment.",
+  "license": "MIT",
+  "author": "https://github.com/souhaib-benbouzid",
+  "scripts": {
+    "py": "nodemon python/main.py",
+    "ts": "nodemon typescript/index.ts"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
